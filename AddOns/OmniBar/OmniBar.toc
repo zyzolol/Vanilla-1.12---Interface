@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Omnibar for 1.12
+## Version: 1.0
+## Notes: Omnibar for Vanilla
+## Author: Backport by Zyzolol (original created by Jordon)
+## SavedVariables:
+
+OmniBar.lua
